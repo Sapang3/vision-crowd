@@ -9,6 +9,8 @@ Vision Crowd is an AI-powered **Early Warning System (EWS)** designed to manage 
 It integrates IoT, CCTV, and environmental data to **predict crowd risks 5–15 minutes in advance**.  
 With a real-time dashboard, color-coded alerts, and forecasting features, it enables authorities to **act before emergencies occur**.
 
+**To run the project please go to ews prototype repo folder and follow the installation process given in readme file**
+
 ---
 
 ## ⚠️ Problem & ✅ Solution
